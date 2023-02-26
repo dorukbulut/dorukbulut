@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student with  a passion for distributed systems<br>developed in GoLang.
+I'm a Computer Science and Engineering student with  a passion for software development with <br> React.js, Node.js, GoLang and Rust.
 
 
 ## 🌐 Socials:
