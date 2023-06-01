@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science and Engineering student with  a passion for software development and Machine Learning with <br> React.js, Node.js, GoLang, Rust and Tensorflow
+I'm a Computer Science and Engineering student with  a passion for software development and Machine Learning.
 
 
 ## 🌐 Socials:
