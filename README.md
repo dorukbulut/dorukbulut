@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science and Engineering student with  a passion for software development and Machine Learning.
+I'm a Computer Science and Engineering student with  a passion for Machine Learning.
 
 
 ## 🌐 Socials:
